@@ -1,4 +1,4 @@
-# Macro-Based Meal Planner 🥗
+# Macro-Based Meal Planner
 
 A Python-based tool that helps users create personalized meal plans tailored to their fitness goals, body composition, and daily lifestyle. Whether you're cutting, bulking, or maintaining, this script estimates your total daily energy expenditure (TDEE) and distributes your macros accordingly—using real food examples.
 
